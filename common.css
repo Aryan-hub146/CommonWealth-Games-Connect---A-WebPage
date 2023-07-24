@@ -1,0 +1,285 @@
+/*header*/
+body{
+    margin:-17px 0px 0px 0px;   
+    font-family:sans-serif;
+    max-width: 50;
+    
+}
+
+ul.nav_1{
+    list-style: none;
+    /* top:0; */
+    /* padding:0; */
+    background-color: #f9d231;
+    display:block;
+    list-style-type: none;
+     margin: 0; 
+     padding: 0; 
+    position:sticky; 
+    top: 0; 
+    width: 100%;
+    height:42px;
+    border-bottom: solid black;
+}
+div.white{ 
+    background-color: white;
+    height:44px;
+    width:100%;
+    
+}
+img.rugby{
+    height:40px;
+    position:relative;
+    margin-left:29.4%;
+    top:-54.3px
+}
+
+div.white h1{
+    margin-left: 98px;
+    margin-top:35px;
+    background-color: white;
+    font-style: italic;
+}
+div.yellow{
+    background-color:#f9d231;
+    border-top: solid black;
+    border-bottom: solid black;
+    width:100%;
+    height:90px;
+    
+}
+
+ul.nav_1 li a{
+    text-decoration:none ;
+    color:black;
+    margin: 15px 3px auto 10px;
+    font-weight:bold;
+    padding:15px 16px;
+ 
+}
+
+ul.nav_1 li{
+    float:left;
+    margin-top: 11px;
+    margin-left: -10px;
+    
+}
+ul.nav_1 li a:hover{
+    color:white;
+    height:20px;
+    background-color: black;
+
+}
+
+
+h1.first1{
+    color:black;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+}
+
+    div.search_box{
+    float:right;
+    margin:1% 15px auto 85%;
+    border-radius:10px 20px 20px 2px;
+}
+input.search-txt{
+    border-radius: 10px 10px 10px 10px;
+    height: 24px;
+    width: 270px;
+    border: solid black;
+    margin-top: -9px;
+    margin-right: 50px;
+}
+div.search_icon i{
+    margin-left:60px ;
+    position: relative;
+    top:6.7px;
+    left:250px
+}
+ul.page_nav{
+    list-style: none;
+    margin-left: 360px;
+    margin-top: 35px;
+}
+ul.page_nav li{
+    display:inline;
+    margin-left:20px;
+    color:white;
+   
+}
+
+ul.page_nav li a{
+    text-decoration: none;
+    color:white;
+    padding:13px 13px;
+    background-color: black; 
+    border-radius:15px 15px 15px 15px ;
+    transition: 0.5s;
+}
+ul.page_nav li a:hover{
+    color:black;
+    background-color: white; 
+    border:solid black
+}
+/*header*/
+
+/*footer*/
+div.footer_black{
+    background-color:#43b85c;
+    height:40px;
+    width:100%;
+    margin-top: 50px;
+    border-top: black;
+    margin-bottom: 2px;
+    border-width: 30px;
+}
+ footer{ 
+     background-color:#f9d231;
+     color: black; 
+     border:solid black;
+     margin-bottom: -px;
+     border:black; 
+     margin-top:60px;
+     border-top: solid black;
+     border-bottom: solid black;
+     width:100%;
+     height:10%;
+}
+h2.h_ab_us{
+    margin-left:21%;
+    margin-top: 3.5%;
+    position:relative;
+    
+    
+}    
+
+ul.f_ab_us{
+    
+    margin:2% 10% -910px 18.5%;
+    list-style: none;
+    position:relative;
+}
+
+ul.f_ab_us li{
+    margin-top:14px;
+    font-size: 19.5px ;
+    
+}
+
+ul.help{
+    margin-left:35%;
+    position:relative;
+    top:705px;
+    list-style: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    
+}
+h2.h_help{
+    position:relative;
+    margin-left:37.5%;
+    top:702px;
+    margin-top:4%;
+}
+ul.help li{
+    margin-top:14px;
+    font-size:19.5px;
+}
+
+ul.list_schedule{
+    list-style: none;
+    position:relative;
+    top:530px;
+    margin-left:2.4%;
+
+}
+
+ul.list_schedule li{
+    font-size:19.5px;
+    margin-top: 14px;
+
+}
+h2.schedule{
+    position:relative;
+    top:515.5px;
+    margin-left: 5%
+}
+
+
+h1.main_h{
+    position:relative; 
+    /* left:00px; */
+    top:217.5px;
+    margin-left: 56.5%;
+    font-size: 35px;
+    
+}
+
+h2.Lm{
+    position:relative;
+    margin-left: 57%;
+    top:207.5px;
+}
+pre.about_Lm{
+    position:relative;
+    margin-left: 55%;
+    top:196px;
+    font-size:16px 
+}
+div.email{
+    position: relative;
+}
+input.enter_email{
+    position:relative;
+    margin-left:57.5%;
+    top:200px;
+    width:280px;
+    height:40px;
+    border: solid black;
+    border-radius: 10px;
+    font-weight:bold
+}
+button.button_email{
+    position:relative;
+    margin-left:57.75%;
+    top:205px;
+    background-color: black;
+    color:white;
+    width: 283px;
+    height:42px;
+    border-radius:10px;
+}
+div.copyrighted_c{
+    margin:10px 60px auto 350px; 
+}
+ul.social_media{
+    list-style: none;
+}
+ul.social_media li{
+     margin-left: 57%; 
+    font-size:100px
+    
+}
+ul.social_media li i{
+    font-size: 40px;
+}
+div.a{
+    position:relative;
+    top:140px
+
+}
+div.b{
+    position:relative;
+    top:27px;
+    margin-left:10% ;
+}
+div.c{
+    position:relative;
+    top:-86px;
+    margin-left:20.85%;
+}

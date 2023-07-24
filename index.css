@@ -1,0 +1,85 @@
+body{
+    background-image:url("icon.svg");
+}
+/* main */
+div.page{
+    color:black;
+    margin: 5% 0 0px 20%; 
+    display:inline-block;
+    width: 60%;
+    min-width: 150px;
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    backdrop-filter: blur(15px);
+    text-align: justify;
+}
+
+
+div.graident_bar{
+    background: linear-gradient(to right,#0b7686 0,#0b7686 1%,#3cab9a 40%,#176584 100%);
+    height: 20px;
+    min-height: 23px;
+    margin-bottom:0;
+    width: 100%;
+    /* border-radius:10px 10px 0 0 ; */
+}
+
+div.page_content{
+    margin: 0px 50px 0px 50px;
+}
+
+p.a {
+    color:gray;
+}
+
+p.b{
+    margin: 0px;
+}
+
+span.author{
+    color:green;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+h2.page_header{
+    margin-bottom: 8px;
+} 
+
+div.about{
+    margin: 230px -6px auto 0px;
+    width:18%;
+    /* display:inline; */
+    float: right;
+    box-shadow:0 8px 32px 0 rgba(0,0,0,0.37) ; 
+    backdrop-filter: blur(15px);
+     background-color:whitesmoke;
+
+}
+div.graident_about{
+    background: linear-gradient(to right,#0b7686 0,#0b7686 1%,#3cab9a 40%,#176584 100%);
+    width:100%;
+    height: 25px;
+    min-height:25px;
+}
+
+aside.about_us{
+   
+    padding: 4px 15px 7px 15px;
+    text-align: justify;
+     
+}
+
+h3.hea_about{
+    color:black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 30%;
+  
+}
+img.ceremony_img{
+    margin:5px 30px auto 60px;
+    height: 400px;
+    border-radius:30px 30px 30px 30px;
+    margin-bottom: 20px;
+    
+}
+

@@ -1,0 +1,97 @@
+{
+    font-family: sans-serif;
+}
+
+
+.social {
+    float: left;
+    background-color: #f9d231;
+    position: fixed;
+    top: 33%;
+    height: 31%;
+    width: 60px;
+    border: solid;
+    border-radius: 2px;
+}
+
+ul.social-list {
+    list-style: none;
+    margin-left: -30px;
+}
+
+ul.social-list li {
+    padding: 6px;
+}
+
+
+ul.social-list li i.fa-twitter {
+    font-size: 33px;
+    color: rgb(0, 0, 0);
+    transition: 0.2s;
+    position: fixed;
+    top: 34%;
+}
+
+ul.social-list li i.fa-twitter:hover {
+    color: rgb(0, 174, 255);
+    font-size: 36px;
+    text-shadow: 0px 0px 3px blanchedalmond,  2px 2px 5px black;
+}
+
+ul.social-list li i.fa-instagram {
+    font-size: 33px;
+    color: black;
+    transition: 0.2s;
+    position: fixed;
+    top: 40%;
+}
+
+
+ul.social-list li i.fa-instagram:hover {
+    font-size: 36px;
+    color: rgb(205, 30, 149);
+    text-shadow: 0px 0px 3px blanchedalmond,  2px 2px 5px black;
+    
+}
+
+ul.social-list li i.fa-linkedin-in {
+    font-size: 33px;
+    color: black;
+    transition: 0.2s;
+    position: fixed;
+    top: 46%;
+}
+
+ul.social-list li i.fa-linkedin-in:hover {
+    font-size: 36px;
+    color: rgb(24, 139, 240);
+    text-shadow: 0px 0px 3px blanchedalmond,  2px 2px 5px black;
+}
+
+ul.social-list li i.fa-envelope {
+    font-size: 33px;
+    color: black;
+    transition: 0.2s;
+    position: fixed;
+    top: 52%;
+}
+
+ul.social-list li i.fa-envelope:hover {
+    font-size: 36px;
+    color: rgb(255, 0, 0);
+    text-shadow: 0px 0px 3px blanchedalmond,  2px 2px 5px black;
+}
+
+ul.social-list li i.fa-github {
+    font-size: 33px;
+    color: black;
+    transition: 0.2s;
+    position: fixed;
+    top: 58%;
+}
+
+ul.social-list li i.fa-github:hover {
+    font-size: 36px;
+    color: rgb(0, 38, 255);
+    text-shadow: 0px 0px 3px blanchedalmond,  2px 2px 5px black;
+}

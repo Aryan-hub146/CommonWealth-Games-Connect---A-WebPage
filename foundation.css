@@ -1,0 +1,51 @@
+div.cw{
+    margin-left: 30%;
+    margin-top:55px;
+}
+img.humans{
+    margin-left: 18.5%;
+    margin-top:40px;
+    height:540px;
+}
+div.ab_foundation{
+    margin-left:20%;
+    margin-top:60px;
+    font-size:19.5px;
+}
+div.ab_foundation p{
+    margin-top:40px;
+}
+div.motivate{
+    background-color:#f9d231;
+    height:250px;
+    width:100%;
+}
+div.motivate pre p{
+    margin-left:10%;
+    font-size:22.5px;
+    margin-top:80px;
+    position:relative;
+    top:45px;
+}
+p.auth{
+    position:relative;
+    top:-94px;
+    margin-left:40%;
+    color:grey;
+    font-size: 20px;
+}
+img.foundation{
+    margin-left:18%;
+    margin-top:0px;
+    height:550px
+}
+p.model{
+    margin-left:40%;
+    color:grey;
+    font-size:19.5px;
+}
+p.implement{
+    margin-left:20%;
+    font-size:19.5px;
+    margin-top:70px;
+}
